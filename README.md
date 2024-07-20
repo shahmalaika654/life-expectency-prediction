@@ -1,5 +1,4 @@
-# life-expectency-prediction
-Life Expectancy Prediction Project
+
 ## Life Expectancy Prediction Project
 
 ### Overview
