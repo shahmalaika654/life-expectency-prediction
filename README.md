@@ -68,7 +68,3 @@ This project aims to predict life expectancy using machine learning techniques. 
 
 ### Contributing
 Feel free to contribute by opening issues or creating pull requests.
-
----
-
-This revised version provides a clear and structured overview of the Life Expectancy Prediction Project, detailing the project's steps and how to use it.
